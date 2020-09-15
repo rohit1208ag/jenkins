@@ -1,2 +1,2 @@
 #!/bin/bash
-ech "Successful"
+ech "Successfull"
